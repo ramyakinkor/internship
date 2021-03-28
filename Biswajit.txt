@@ -1,2 +1,7 @@
 Biswajit Das
+<<<<<<< HEAD
 hello Biswajit
+=======
+
+shankh was here
+>>>>>>> ce224a4e56f6655bbf8a820dc915faad7bdab33f
