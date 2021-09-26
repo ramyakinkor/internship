@@ -1,0 +1,6 @@
+System flaws:
+
+1.Datestamp missing from booking information.
+2.User can register with same name and password/clone account credentials.
+3.Cannot set limit to the number of booking.
+4.Doctors usertype missing.
